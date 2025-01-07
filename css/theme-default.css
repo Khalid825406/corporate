@@ -4919,19 +4919,15 @@ padding-left:0px;
     width: 100%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+.header-section img {
+    max-width: 50%;
+}
+.main-herro {
+    overflow-y: scroll !important;
+    scrollbar-width: none !important;
+    -ms-overflow-style: none !important;
+    height: auto !important;
+}
 }
 
 
