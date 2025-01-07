@@ -4489,14 +4489,13 @@ background-color: #fff;
     position: absolute;
     width: 100%;
 	height:1000px;
-    padding:16% 0 0 0;
-	top:0px;
+	top:60%;
     margin: 0px;
     float: left;
     z-index: 3;
 }
 .header-inner .text .title {
-	font-size:30px;
+	font-size:50px;
 	font-weight:600;
 }
 .header-inner .text .sub-title {
